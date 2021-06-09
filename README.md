@@ -1,7 +1,4 @@
 # DayTrader - Dev Ops
 
-This repository will be an application that will generate traffic to our back-ends applications.
+This repository is an application that will generate traffic to our back-ends applications called DayTrader.
 
-## Getting started
-
-In progress...
